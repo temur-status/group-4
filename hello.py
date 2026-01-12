@@ -1,2 +1,1 @@
-print("hello")
-print("salom")
+print("obsevity")
